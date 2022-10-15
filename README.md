@@ -1,3 +1,3 @@
 # whatsapp-bot
-Whatsapp Message Bot with Python Selenium.
-Requires Chromium Web Browser.
+Whatsapp message bot with Python Selenium.
+Uses Chromium Web Browser.
